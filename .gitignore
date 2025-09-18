@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Java / Kotlin
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# C / C++
+*.o
+*.out
+*.exe
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
+
+# System files
+Thumbs.db
+
+# CSV files
+*.csv
