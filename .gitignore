@@ -34,5 +34,5 @@ target/
 # System files
 Thumbs.db
 
-# CSV files
+#csv
 *.csv
